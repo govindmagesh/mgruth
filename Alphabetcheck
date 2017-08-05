@@ -1,6 +1,0 @@
-inp=raw_input('Input Alphabet here: ')
-w=['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
-if inp in w:
-    print 'The given input is an Alphabet'
-else:
-    print 'The given Alphabet is not an Alphabet'
